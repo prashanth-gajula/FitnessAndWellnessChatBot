@@ -8,4 +8,10 @@ langchain-openai==0.3.24
 langchain-community==0.3.26
 langchain-google-vertexai
 google-cloud-aiplatform
+ipykernel
+google-generativeai
+langchain_google_genai
+torch
+pinecone
+langchain_pinecone
 -e .
